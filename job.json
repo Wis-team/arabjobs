@@ -9,21 +9,6 @@
     ],
 
     "offers": [
-        {"model":"Morocco", "offlink":"https://smrturl.co/o/165956/53265171?s1="},
-        {"model":"Moroccoc", "offlink":"https://smrturl.co/o/165956/53265171?s1="}
-    ]
-}
-{
-    "condition": [
-        {"cond":"8 ساعات عمل يوميا"},
-        {"cond":"اقامة مجانية داخل فرع العمل"},
-        {"cond":"السفر خلال تلات ايام كحد اقصى و العقد مجاني"},
-        {"cond":"العمر مطلوب بين 19 و 55 سنة"},
-        {"cond":"وجبتي الغداء و العشاء مجانا"},
-        {"cond":"الراتب 3500$ + سكن مجاني او 4300$ بدون سكن"}
-    ],
-
-    "offers": [
         {"name": "Morocco",      "model":"MA", "offlink":"https://smrturl.co/o/165956/53259076?s1="},
         {"name": "Sudan",        "model":"SD", "offlink":"https://smrturl.co/o/165956/53264442?s1="},
         {"name": "Algeria",      "model":"DZ", "offlink":"https://smrturl.co/o/165956/53241333?s1="},
