@@ -1,2 +1,2 @@
-var deflink = "https://smrturl.co/o/165956/53259076?s1=";
+var deflink = "https://smrturl.co/625882f";
 var useSp = "no";
