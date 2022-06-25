@@ -9,8 +9,8 @@
     ],
 
     "offers": [
-        {"model":"Morocco", "offlink":"https://smrturl.co/625882f"},
-        {"model":"Moroccoc", "offlink":"https://smrturl.co/625882f"}
+        {"model":"Morocco", "offlink":"https://smrturl.co/o/165956/53265171?s1="},
+        {"model":"Moroccoc", "offlink":"https://smrturl.co/o/165956/53265171?s1="}
     ]
 }
 {
@@ -32,5 +32,25 @@
         {"name": "Yemen",        "model":"YE", "offlink":"https://smrturl.co/o/165956/53259076?s1="},
         {"name": "Syria",        "model":"SY", "offlink":"https://smrturl.co/o/165956/53264443?s1="},
         {"name": "Egypt",        "model":"EG", "offlink":"https://smrturl.co/o/165956/53259076?s1="}
-    ]
+        {"name": "Qatar",         "model":"QA", "offlink":"https://smrturl.co/o/165956/53265171?s1="},
+        {"name": "Senegal",         "model":"SN", "offlink":"https://smrturl.co/o/165956/53264441?s1="},
+        {"name": "Somalia",         "model":"SO", "offlink":"https://smrturl.co/o/165956/53264441?s1="},
+        {"name": "Tunisia",         "model":"TN", "offlink":"https://smrturl.co/o/165956/53264443?s1="},
+        {"name": "South Africa",         "model":"ZA", "offlink":"https://smrturl.co/o/165956/53246611?s1="},
+        {"name": "Turkey",         "model":"TR", "offlink":"https://smrturl.co/o/165956/53266454?s1="},
+        {"name": "United Arab Emirates",         "model":"AE", "offlink":"https://smrturl.co/o/165956/53244499?s1="},
+        {"name": "Western Sahara",         "model":"EH", "offlink":"https://smrturl.co/o/165956/53265169?s1="},
+        {"name": "Oman",        "model":"OM", "offlink":"https://smrturl.co/o/165956/53165055?s1="}
+        {"name": "Pakistan",        "model":"PK", "offlink":"https://smrturl.co/o/165956/53266483?s1="}
+        {"name": "Palestine",        "model":"PS", "offlink":"https://smrturl.co/o/165956/53252769?s1="}
+        {"name": "Senegal",         "model":"SN", "offlink":"https://smrturl.co/o/165956/53265171?s1="},
+        {"name": "Kuwait",         "model":"KW", "offlink":"https://smrturl.co/o/165956/53212396?s1="},
+        {"name": "Lebanon",         "model":"LB", "offlink":"https://smrturl.co/o/165956/53264441?s1="},
+        {"name": "Israel",         "model":"IL", "offlink":"https://smrturl.co/o/165956/53265170?s1="},
+        {"name": "Libya",         "model":"LY", "offlink":"https://smrturl.co/o/165956/53264442?s1="},
+        {"name": "Cameroon",         "model":"CM", "offlink":"https://smrturl.co/o/165956/53265171?s1="},
+        {"name": "Comoros",         "model":"KM", "offlink":"https://smrturl.co/o/165956/53264442?s1="},
+        {"name": "Bahrain",         "model":"BH", "offlink":"https://smrturl.co/o/165956/53242959?s1="},
+   ]
 }
+
