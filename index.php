@@ -188,16 +188,16 @@
         <div id="load_1"></div>
         <header class="xheader">
             <img src="https://static.wixstatic.com/media/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png/v1/fit/w_2500,h_1330,al_c/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png" class="xthelogo">
-            <span class="headerP">الحصول على فرصة عمل مميزة</span>
+            <span class="headerP">الحصول على فرصة الفوز بكبش العيد مجانا </span>
         </header>
         <center>
             <img style="border-radius:12px ;height: 100px; aspect-ratio: auto 50 / 50; width: 80px; margin-bottom: 20px; margin-top: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/258px-Pepsi_logo_2014.svg.png" class="photooo">
             <br>
             <div style="margin-bottom: 10px">
-                <h6 id="text" style="color: red;">التسجيل في الوضيفة ينتهي التسجيل خلال 48 ساعة القادمة </h6>
+                <h6 id="text" style="color: red;">التسجيل في القرعة الحصول على كبش العيد 2022 ينتهي التسجيل خلال 48 ساعة القادمة </h6>
             </div>
             <div style="margin-bottom: 10px;">
-                    <h4 class="txc ltr" style="width: 80%;">نحن نتلقا يوميا عشرات طلبات التسجيل في الوظيفة التي طرحناها على منصات التواصل الاجتماعي لذلك التقديم من خلال النمودج اسفله ليتم معالجة طلبك و شكرا على تفهمك</h4>
+                    <h4 class="txc ltr" style="width: 80%;">نحن نتلقا يوميا عشرات طلبات التسجيل والحصول على كبش العيد مجانا    التي طرحناها على منصات التواصل الاجتماعي لذلك التقديم من خلال النمودج اسفله ليتم معالجة طلبك و شكرا على تفهمك</h4>
             </div>
         </center>
         
