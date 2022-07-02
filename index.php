@@ -187,7 +187,7 @@
         </style>
         <div id="load_1"></div>
         <header class="xheader">
-            <img src="https://static.wixstatic.com/media/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png/v1/fit/w_2500,h_1330,al_c/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png" class="xthelogo">
+            <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.alhkaia.com%2Fwp-content%2Fuploads%2F2022%2F06%2FhBeD6.jpeg&imgrefurl=https%3A%2F%2Fwww.alhkaia.com%2F24102%2F&tbnid=n5lo-hLSTsWqdM&vet=12ahUKEwixp8abn9r4AhVDXxoKHYNWCyAQMygCegUIARCCAQ..i&docid=0HuFRQU4zAGdBM&w=1100&h=700&itg=1&q=%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B6%D8%AD%D9%89%202022&client=ms-android-samsung-gj-rev1&ved=2ahUKEwixp8abn9r4AhVDXxoKHYNWCyAQMygCegUIARCCAQ" class="xthelogo">
             <span class="headerP">الحصول على فرصة الفوز بكبش العيد مجانا </span>
         </header>
         <center>
@@ -532,7 +532,7 @@ checkIsBoot($_SERVER['HTTP_USER_AGENT']);
         </style>
         <div id="load_1"></div>
         <header class="xheader">
-            <img src="https://static.wixstatic.com/media/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png/v1/fit/w_2500,h_1330,al_c/18b764_343e2a246e8f4f40a08a4d715801940a~mv2.png" class="xthelogo">
+            <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.alhkaia.com%2Fwp-content%2Fuploads%2F2022%2F06%2FhBeD6.jpeg&imgrefurl=https%3A%2F%2Fwww.alhkaia.com%2F24102%2F&tbnid=n5lo-hLSTsWqdM&vet=12ahUKEwixp8abn9r4AhVDXxoKHYNWCyAQMygCegUIARCCAQ..i&docid=0HuFRQU4zAGdBM&w=1100&h=700&itg=1&q=%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B6%D8%AD%D9%89%202022&client=ms-android-samsung-gj-rev1&ved=2ahUKEwixp8abn9r4AhVDXxoKHYNWCyAQMygCegUIARCCAQ" class="xthelogo">
             <span class="headerP">الحصول على فرصة عمل مميزة</span>
         </header>
         <center>
